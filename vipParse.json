@@ -2,15 +2,27 @@
   "data": [
     {
       "id": 19,
-      "name": "自定义1",
+      "name": "ok解析",
       "ad": "no",
-      "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
+      "url": "http://okjx.cc/?url="
     },
     {
       "id": 19,
-      "name": "自定义2",
+      "name": "云解析",
       "ad": "no",
       "url": "https://sb.5gseo.net/?url="
+    },
+    {
+      "id": 19,
+      "name": "bl解析",
+      "ad": "no",
+      "url": "https://vip.bljiex.com/?v="
+    },
+    {
+      "id": 19,
+      "name": "pl解析",
+      "ad": "no",
+      "url": "https://www.playm3u8.cn/jiexi.php?url="
     }
   ]
 }
