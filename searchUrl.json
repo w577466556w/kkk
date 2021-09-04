@@ -190,6 +190,14 @@
       "cate": "蓝光电影,34&&蓝光电视剧,37&&蓝光动漫,38&&蓝光综艺,40",
       "click": true,
       "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "海绵影视",
+      "url": "https://www.haimianys.com/api.php/provide/vod/at/xml/",
+      "cate": "蓝光电影,34&&蓝光电视剧,37&&蓝光动漫,38&&蓝光综艺,40",
+      "click": true,
+      "wePlus": {}
     }
   ]
 }
